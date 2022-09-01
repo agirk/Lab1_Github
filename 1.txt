@@ -1,1 +1,1 @@
-my file 1.txt
+another text in file 1.txt
